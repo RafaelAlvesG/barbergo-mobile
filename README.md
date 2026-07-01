@@ -51,5 +51,3 @@ O objetivo principal do **BarberGo** é oferecer uma ferramenta de gestão bifro
 3. **Gestão de Tema (Dark Mode)**: Implementar um Modo Escuro que não apenas trocasse o fundo, mas adaptasse todos os componentes customizados (cards, badges e inputs) mantendo a legibilidade e o Design System.
 4. **Localização de Datas**: Configurar o calendário para respeitar os nomes dos dias e meses em português, tratando exceções de inicialização de pacotes nativos.
 
----
-**Desenvolvido por Rafael - 2024**
