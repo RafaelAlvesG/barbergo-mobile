@@ -38,7 +38,6 @@ O objetivo principal do **BarberGo** é oferecer uma ferramenta de gestão bifro
 - **Modo Escuro**: Suporte a tema Dark/Light para melhor ergonomia visual.
 
 ## 📸 5. Capturas de Tela
-*(Adicione aqui as imagens geradas do aplicativo)*
 
 | Login | Dashboard Barbeiro | Agendamento Cliente |
 |---|---|---|
